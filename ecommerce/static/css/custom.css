@@ -15,10 +15,14 @@ font-family: 'Roboto', sans-serif;
 
 .my_footer{
  background-color: #80ced6;
- height:60px;
+ height:30px;
+ position: fixed;
+ left: 0;
+ bottom: 0;
+ width: 100%;
 }
 .my_footer p{
-padding-top:20px;
+padding-top:10px;
 font-size:14px;
 }
 /*** category ***/
